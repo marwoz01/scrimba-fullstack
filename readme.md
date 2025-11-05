@@ -12,5 +12,3 @@ W trakcie kursu zrealizowano projekty obejmujące m.in.:
 - **TypeScript & Testing** – pisanie bezpiecznego i testowalnego kodu
 
 Repo stanowi pełną dokumentację nauki ścieżki Fullstack – od podstaw po wdrożenie aplikacji w środowisku produkcyjnym.
-
-> > > > > > > f5a14d49f4079cc12d5a588a0087717b38d8a4ff
