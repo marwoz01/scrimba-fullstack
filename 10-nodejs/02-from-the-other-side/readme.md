@@ -2,6 +2,8 @@
 
 Aplikacja pozwala użytkownikom dzielić się swoimi paranormalnymi historiami, które są następnie wyświetlane na stronie. Projekt stanowi praktyczne ćwiczenie z podstaw pracy z Node.js i serwerem HTTP.
 
+**Live demo:** [from-the-other-side.vercel.app](https://from-the-other-side.vercel.app)
+
 ## Zakres materiału
 
 Podczas realizacji tego projektu przerobiłem zagadnienia dotyczące:
